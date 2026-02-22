@@ -296,15 +296,6 @@ After completing this project, you can claim:
 
 Inside `Task1/` folder, next files can be:
 
-* `01-advanced-etl-execution-guide.md`
-* `02-project-time-breakdown.md`
-* `03_Requirements.md`
-* `04_Architecture_Design.md`
-* `05_Data_Extraction.md`
-* `06_Transformation_Logic.md`
-* `07_BigQuery_Optimization.md`
-* `08_Automation_Setup.md`
-* `09_Testing_and_Validation.md`
 
 ```text
 Task1/
