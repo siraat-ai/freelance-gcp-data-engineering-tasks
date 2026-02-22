@@ -296,13 +296,13 @@ After completing this project, you can claim:
 
 Inside `Task1/` folder, next files can be:
 
-* `01_Requirements.md`
-* `02_Architecture_Design.md`
-* `03_Data_Extraction.md`
-* `04_Transformation_Logic.md`
-* `05_BigQuery_Optimization.md`
-* `06_Automation_Setup.md`
-* `07_Testing_and_Validation.md`
+* `03_Requirements.md`
+* `04_Architecture_Design.md`
+* `05_Data_Extraction.md`
+* `06_Transformation_Logic.md`
+* `07_BigQuery_Optimization.md`
+* `08_Automation_Setup.md`
+* `09_Testing_and_Validation.md`
 
 Gradually fill these.
 
