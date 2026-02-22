@@ -306,17 +306,20 @@ Inside `Task1/` folder, next files can be:
 * `08_Automation_Setup.md`
 * `09_Testing_and_Validation.md`
 
-  Task1/
+```text
+Task1/
 │
 ├── 01-advanced-etl-execution-guide.md
 ├── 02-project-time-breakdown.md
-├── 03_Requirements.md
-├── 04_Architecture_Design.md
-├── 05_Data_Extraction.md
-├── 06_Transformation_Logic.md
-├── 07_BigQuery_Optimization.md
-├── 08_Automation_Setup.md
-└── 09_Testing_and_Validation.md
+├── 03-requirements.md
+├── 04-architecture-design.md
+├── 05-data-extraction.md
+├── 06-transformation-logic.md
+├── 07-bigquery-optimization.md
+├── 08-automation-setup.md
+└── 09-testing-and-validation.md
+```
+
 
 Gradually fill these.
 
