@@ -35,6 +35,8 @@ Primary table used for transformation:
 
 ---
 
+---
+
 # 🏗 Architecture Overview
 
 Public Dataset (BigQuery)
@@ -46,6 +48,8 @@ Transformation Layer
 Curated Dataset (Partitioned + Clustered)
         ↓
 Analytics-Ready Table
+
+---
 
 ---
 
