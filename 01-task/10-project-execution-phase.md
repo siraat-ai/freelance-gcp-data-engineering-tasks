@@ -79,7 +79,6 @@ CREATE OR REPLACE TABLE task1_raw.orders_raw AS
 SELECT *
 FROM `bigquery-public-data.thelook_ecommerce.orders`
 LIMIT 100000;
-````
 
 This creates a working boundary under your project.
 
