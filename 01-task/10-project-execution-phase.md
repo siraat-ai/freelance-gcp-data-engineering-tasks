@@ -1,4 +1,3 @@
-````md
 # 🚀 Task 1 – Project Execution Phase  
 ## Real-World ETL Implementation Using Google Public Dataset
 
@@ -227,9 +226,3 @@ Task 1 – Execution Phase Complete.
 
 ---
 
-```
-
----
-
-
-```
