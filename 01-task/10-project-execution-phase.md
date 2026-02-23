@@ -216,6 +216,7 @@ This aligns directly with enterprise Google Cloud Data Engineering requirements.
 
 # 🎯 Final Outcome
 
+```text
 The project now includes:
 
 ✔ Real-world dataset ingestion
@@ -223,7 +224,7 @@ The project now includes:
 ✔ Cleaned & analytics-ready dataset
 ✔ Optimized BigQuery storage
 ✔ Automated execution pipeline
-
+```
 Task 1 – Execution Phase Complete.
 
 ---
