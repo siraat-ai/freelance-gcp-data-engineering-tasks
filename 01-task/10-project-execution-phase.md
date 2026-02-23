@@ -216,9 +216,9 @@ This aligns directly with enterprise Google Cloud Data Engineering requirements.
 
 # 🎯 Final Outcome
 
-```text
 The project now includes:
 
+```text
 ✔ Real-world dataset ingestion
 ✔ Controlled raw data boundary
 ✔ Cleaned & analytics-ready dataset
