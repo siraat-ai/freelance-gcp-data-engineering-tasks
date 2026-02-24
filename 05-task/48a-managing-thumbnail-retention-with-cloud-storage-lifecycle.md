@@ -233,8 +233,11 @@ Agar question mention kare:
 Correct approach:
 
 ✔ Use Object Lifecycle Management
+
 ❌ Avoid Cloud Function scanning
+
 ❌ Avoid Cloud Scheduler cron-based cleanup
+
 ❌ Avoid unnecessary object versioning
 
 ---
