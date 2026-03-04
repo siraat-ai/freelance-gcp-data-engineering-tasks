@@ -333,7 +333,7 @@ retail_curated.retail_orders
 This table will serve as the **primary dataset for business intelligence and reporting**.
 
 
-#💡 Next step:
+# 💡 Next step:
 
 Ab hum console par actual query run karenge jo:
 
