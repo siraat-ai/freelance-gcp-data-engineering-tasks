@@ -116,11 +116,11 @@ The following platforms are commonly used to search for **data engineering jobs 
 
 ### Suggested Search Keywords
 
-Junior Data Engineer
-Cloud Data Engineer
-BigQuery Engineer
-Analytics Engineer
-Google Cloud Data Engineer
+- Junior Data Engineer
+- Cloud Data Engineer
+- BigQuery Engineer
+- Analytics Engineer
+- Google Cloud Data Engineer
 
 ---
 
