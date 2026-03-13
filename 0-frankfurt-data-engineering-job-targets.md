@@ -115,3 +115,43 @@ The following platforms are commonly used to search for **data engineering jobs 
 - Indeed
 
 ### Suggested Search Keywords
+
+Junior Data Engineer
+Cloud Data Engineer
+BigQuery Engineer
+Analytics Engineer
+Google Cloud Data Engineer
+
+---
+
+# Practical Targeting Strategy
+
+Start by targeting these **10 companies first**:
+
+1. Accenture  
+2. Capgemini  
+3. Deloitte  
+4. INFOMOTION  
+5. Reply  
+6. Thoughtworks  
+7. Devoteam  
+8. Nordcloud  
+9. Publicis Sapient  
+10. Slalom  
+
+These organizations frequently run **cloud data platform and analytics transformation projects**, which creates opportunities for **data engineers with strong portfolio projects**.
+
+---
+
+# Final Note
+
+Candidates with the following combination tend to stand out:
+
+- Google Cloud Data Engineer certification
+- 3–5 strong GitHub data engineering projects
+- Practical ETL / data pipeline experience
+- Clear understanding of data architecture patterns
+
+This combination significantly improves the chances of securing a **Data Engineering role in Frankfurt’s consulting and fintech ecosystem**.
+
+
